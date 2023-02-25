@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 import 'HomePage.dart';
 
-class DispatchDashboardPage extends StatelessWidget {
-  const DispatchDashboardPage({super.key});
+class SignUpAs extends StatelessWidget {
+  const SignUpAs({super.key});
 
   @override
   Widget build(BuildContext context) {
